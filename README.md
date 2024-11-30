@@ -1,5 +1,5 @@
 # ePortfolio
-About Me
+About Me 
 As a Computer Science graduate from Southern New Hampshire University, I have cultivated a strong foundation in problem-solving, programming, and algorithms. My academic experience has honed my ability to translate concepts into efficient code, organize data effectively using structured algorithms, and create innovative solutions to complex challenges.
 
 Featured Project: Pet Hotel Management System
